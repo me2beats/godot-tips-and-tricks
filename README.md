@@ -16,8 +16,10 @@ Tips and tricks are listed in [the issues pages](https://github.com/me2beats/god
   - attach images and videos if it makes the tip/trick clearer 
   - links can be added; don't attach only links, describe the tip/trick.
   - add timecodes to video links (not necessary but preffered)
-  - be polite 
-  - note: tips/tricks can be closed/removed, main reasons:
-    - the issue is not a tip/trick 
-    - there are better solutions 
-    - the tip/trick author insults someone or calls for illegal and unethical actions.
+  - be polite
+
+
+- note: tips/tricks can be closed/removed, main reasons:
+  - the issue is not a tip/trick 
+  - there are better solutions 
+  - the tip/trick author insults someone or calls for illegal and unethical actions.
