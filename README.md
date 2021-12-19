@@ -21,5 +21,5 @@ tips and tricks are here: https://github.com/me2beats/godot-tips-and-tricks/issu
 
 Will be added soon:
 - templates 
-- - labels 
-- - tips/tricks
+  - labels 
+  - tips/tricks
