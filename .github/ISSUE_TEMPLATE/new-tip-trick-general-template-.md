@@ -1,6 +1,7 @@
 ---
 name: 'New tip-trick general template '
-about: This is a general template for creating new tips/tricks
+about: General template for creating new tips/tricks. Has "Problem" and "Solution"
+  fields.
 title: ''
 labels: ''
 assignees: ''
