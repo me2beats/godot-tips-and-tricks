@@ -15,7 +15,7 @@ tips and tricks are here: https://github.com/me2beats/godot-tips-and-tricks/issu
   - note: tips/tricks can be closed/removed, main reasons:
     - the issue is not a tip/trick 
     - there are better solutions 
-    - the tip/trick author insults someone or calls for illegal and unethical actions, behaves bad.
+    - the tip/trick author insults someone or calls for illegal and unethical actions.
   - links can be added; don't attach only links, describe the tip/trick.
   - add timecodes to video links (not necessary but preffered)
 
