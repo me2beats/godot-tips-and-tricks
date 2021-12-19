@@ -1,7 +1,7 @@
-# godot-tips-and-tricks
-Tips and tricks you should know when using Godot Engine!
+# [Godot tips and tricks are here!](https://github.com/me2beats/godot-tips-and-tricks/issues)
 
-Tips and tricks are listed in [the issues pages](https://github.com/me2beats/godot-tips-and-tricks/issues)
+
+Tips and tricks you should know when using Godot Engine!
 
 - read some tips/tricks 
 - like the tip/trick if you find it useful 
