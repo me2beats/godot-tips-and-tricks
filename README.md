@@ -3,6 +3,9 @@
 
 Tips and tricks you should know when using Godot Engine!
 
+Disclamer: the repository does not have to pretend to be a resource with "approved" tips and tricks and best practices.
+Use the tips at your own risk!
+
 - read some tips/tricks 
 - like the tip/trick if you find it useful 
 - suggest improvements in comments
