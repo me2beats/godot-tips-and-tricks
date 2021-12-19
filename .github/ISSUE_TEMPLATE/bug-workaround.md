@@ -1,6 +1,6 @@
 ---
 name: Bug workaround
-about: Share the trick to workround a bug. The bug should exist in Godot [issues](https://github.com/godotengine/godot/issues)
+about: Share the trick to workround a bug. The bug should exist in Godot issues
 title: ''
 labels: workround
 assignees: ''
