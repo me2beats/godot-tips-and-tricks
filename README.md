@@ -10,7 +10,10 @@ tips and tricks are here: https://github.com/me2beats/godot-tips-and-tricks/issu
   - make is short and clear 
   - don't repeat existing tips/tricks
   - be polite 
-  - attach images and videos if it makes the tip/trick clear 
-  - note: tips/tricks can be closed/removed 
-  - links can be added; don't attach only links, describe it.
+  - attach images and videos if it makes the tip/trick clearer 
+  - note: tips/tricks can be closed/removed, main reasons:
+    - the issue is not a tip/trick 
+    - there are better solutions 
+    - the tip/trick author insults someone or calls for illegal and unethical actions, behaves bad.
+  - links can be added; don't attach only links, describe the tip/trick.
   - add timecodes to video links (not necessary but preffered)
