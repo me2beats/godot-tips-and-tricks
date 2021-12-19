@@ -10,6 +10,7 @@ Tips and tricks are listed in [the issues pages](https://github.com/me2beats/god
   - use English
   - make it short and clear 
   - don't repeat existing tips/tricks
+  - do not create several loosely related tips in one issue / post (like the trick I learned today). Instead, create some tips. Also you can link other tips (like "see also ")
   - be polite 
   - attach images and videos if it makes the tip/trick clearer 
   - note: tips/tricks can be closed/removed, main reasons:
