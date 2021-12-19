@@ -8,7 +8,7 @@ tips and tricks are here: https://github.com/me2beats/godot-tips-and-tricks/issu
 - suggest improvements in comments
 - create a tip/trick you would like to share 
   - use English
-  - make is short and clear 
+  - make it short and clear 
   - don't repeat existing tips/tricks
   - be polite 
   - attach images and videos if it makes the tip/trick clearer 
