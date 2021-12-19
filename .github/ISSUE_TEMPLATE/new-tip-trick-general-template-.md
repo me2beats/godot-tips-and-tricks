@@ -7,12 +7,12 @@ assignees: ''
 
 ---
 
-**Tip/trick:**
-A clear and concise description of what the tip/trick is.
+**Tip or trick:**
+A clear and concise description of what the tip/trick is
 
-**Problem**
+**Problem:**
 
-**Solution**
+**Solution:**
 
-**Additional context**
+**Additional context:**
 Add any other context about the tip/trick or problem here.
