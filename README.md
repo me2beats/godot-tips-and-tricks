@@ -20,6 +20,5 @@ tips and tricks are here: https://github.com/me2beats/godot-tips-and-tricks/issu
   - add timecodes to video links (not necessary but preffered)
 
 Will be added soon:
-- templates 
-- labels 
+- tips/tricks templates 
 - tips/tricks
