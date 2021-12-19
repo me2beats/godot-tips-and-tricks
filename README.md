@@ -19,7 +19,7 @@ Tips and tricks are listed in [the issues pages](https://github.com/me2beats/god
   - be polite
 
 
-- note: tips/tricks can be closed/removed, main reasons:
-  - the issue is not a tip/trick 
-  - there are better solutions 
-  - the tip/trick author insults someone or calls for illegal and unethical actions.
+note: tips/tricks can be closed/removed, main reasons:
+- the issue is not a tip/trick 
+- there are better solutions 
+- the tip/trick author insults someone or calls for illegal and unethical actions.
