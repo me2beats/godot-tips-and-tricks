@@ -1,8 +1,8 @@
 ---
 name: Repository improvement suggestion
-about: Template for creating suggestion related to repository
+about: Template for creating suggestion related to the repository
 title: ''
-labels: ''
+labels: meta
 assignees: ''
 
 ---
